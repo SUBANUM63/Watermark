@@ -1,0 +1,1 @@
+val n = readln().toInt()

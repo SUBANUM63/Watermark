@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Division" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/LCM" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Max" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Simple expression" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Statements" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Equivalent" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/How to declare a type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Select correct statements about types" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Think as a compiler" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Type mismatch" />
+            <option value="$PROJECT_DIR$/Topics/Data types/What is type inference" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on var objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Possible properties types" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/True statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find the value of the variable" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Crash your app" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Exchange" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/From A to B" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/The last of u" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output (1)" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Number dividers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Odd or even" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Statements about brackets in if" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a polygon" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Representing images in Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Supported formats" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/A bow and a cat" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Heroes and villains" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Pumpkin and candle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Me" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Name of an entry point" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Lucky number" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Check the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Find the correct input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/How to learn the whole Kotlin per one task" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Invoke readLine()" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Reading data" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Groundhogs at the party" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Who is less than 10" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Code review" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/A function for reading data" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Read and print" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Scanner" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/The suitable inputs" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Which input suits" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Print a triangle" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/What does the program print" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Application" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Lie detector" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Program result" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/The superior forces of the Empire" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
+            <option value="$PROJECT_DIR$/Watermark/task" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

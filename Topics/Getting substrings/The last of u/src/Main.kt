@@ -1,0 +1,35 @@
+fun main() {
+    var lastIndexOfU = 0
+    val string = readln()
+    val capLast = mutableListOf<Char>()
+    for (i in string.indices) {
+        if (string[i] == 'u') lastIndexOfU = i
+    }
+    for (i in lastIndexOfU + 1 until string.length) {
+        capLast.add(string[i])
+    }
+    println(string.take(lastIndexOfU + 1) + capLast.joinToString("").uppercase())
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////
+//fun main() {
+//    var string = readln()
+//    string = string.replaceAfterLast('u', string.substringAfterLast('u').uppercase())
+//    println(string)
+//}
+//////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////
+//const val STR = "u"
+//
+//fun main() {
+//    val string = readln()
+//
+//    print(
+//        string.substringBeforeLast(STR) +
+//                STR +
+//                string.substringAfterLast(STR).uppercase()
+//    )
+//
+//}

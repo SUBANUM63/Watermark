@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write the class Complex here
+  learner_created: false
+- name: src/red2.png
+  visible: true
+  learner_created: true
+- name: src/24bit.png
+  visible: true
+  learner_created: true
+- name: src/MyExperiment.kt
+  visible: true
+  learner_created: true
+- name: src/WaterMarkSolution2.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6206#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 04 Mar 2023 16:00:41 UTC"
+record: -1
